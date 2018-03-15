@@ -11,3 +11,14 @@ Question for all the program-
     File  ->
          segregate 0 and 1.h
          segregate 0 and 1.cpp
+ 3) The job is to make a tree and find the height of a tree.
+    File->
+          
+         tree_height.h
+         tree_height.cpp
+  4) The job is to make two tree and find that whether both the tree are identical or not.
+    File->
+          
+         tree_identical.h
+         tree_identical.cpp
+      
